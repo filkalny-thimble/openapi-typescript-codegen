@@ -1,6 +1,6 @@
 {
-    "name": "openapi-typescript-codegen",
-    "version": "0.26.0",
+    "name": "@filkalny-thimble/openapi-typescript-codegen",
+    "version": "0.26.1",
     "description": "Library that generates Typescript clients based on the OpenAPI specification.",
     "author": "Ferdi Koomen",
     "homepage": "https://github.com/ferdikoomen/openapi-typescript-codegen",
@@ -29,6 +29,12 @@
         {
             "name": "Ferdi Koomen",
             "email": "info@madebyferdi.com"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Filip Kalný",
+            "email": "filip.kalny@thimble.cz"
         }
     ],
     "main": "dist/index.js",
